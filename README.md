@@ -1,3 +1,7 @@
+Packages Required:
+    requests
+    colorama
+    
 Modify url variable in main.py then simply run:
     python main.py
 
